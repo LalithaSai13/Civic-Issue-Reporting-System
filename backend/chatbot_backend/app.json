@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a27f20b1-71eb-4f89-bb30-e7f27bb232cd"
+      }
+    },
+    "android": {
+      "package": "com.lalithasai.chatbotbackend"
+    }
+  }
+}
